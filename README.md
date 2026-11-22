@@ -128,7 +128,9 @@ Bitcoin Cash focussed media and content.
 - [Bitcoin Cash Foundation](https://bitcoincashfoundation.org/) Weekly News - Available on [Youtube](https://www.youtube.com/@BitcoinCashFoundation) and [Telegram](https://t.me/BCHFNews) -->
 
 
-## Projects Built on Bitcoin Cash
+## Projects
+
+Chain.Love is an open-source directory for comparing RPC providers, indexers, explorers, bridges, wallets and other Web3 services across networks: https://chain.love/ Built on Bitcoin Cash
 
 All of these apps are mostly stable and active. Always check the notes of a particular project before risking a large sum of value. Links are checked on a weekly basis, but function is not checked.
 
